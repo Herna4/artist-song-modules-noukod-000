@@ -1,3 +1,4 @@
+require_relative 
 require_relative '../lib/concerns/paramable'
 
 module Paramable
